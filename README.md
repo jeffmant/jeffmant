@@ -1,7 +1,5 @@
 ### Welcome! 😄
 
-  Everything's good? - Yes? You can improve. - No? You whine!
-
 :technologist:
 
 <!--
