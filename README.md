@@ -7,9 +7,14 @@
 My mission is to reach, awaken and encourage people to bring their best versions. I currently use programming for this.
 </p>
 
+<p>&nbsp;</p>
+
 <div id="social-badges" align="center">
   <a href="https://linkedin.com/in/jeffmant">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/jmantovani1">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC10lFjruKpj2KYRKcwQ3clg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -17,18 +22,4 @@ My mission is to reach, awaken and encourage people to bring their best versions
   <a href="https://twitter.com/JeffMantovani">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
----
-
-<p>&nbsp;</p>
-
-<div id="github-streaks" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffmant&theme=dark&hide_border=true" alt="github-readme-streaks" />
-</div>
-
-<p>&nbsp;</p>
-
-<div id="github-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="github-readme-stats" />
 </div>
