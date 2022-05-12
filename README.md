@@ -1,16 +1,34 @@
-### 🚀
+<div id="mario-coder" align="center">
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
+</div>
 
-<!--
-**jeffmant/jeffmant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> Hey. I'm Jeff. Nice to see you here! ✌🏽 </p>
+<p align="center">
+My mission is to reach, awaken and encourage people to bring their best versions. I currently use programming for this.
+</p>
 
-Here are some ideas to get you started:
+<div id="social-badges" align="center">
+  <a href="https://linkedin.com/in/jeffmant">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC10lFjruKpj2KYRKcwQ3clg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/JeffMantovani">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>&nbsp;</p>
+
+<div id="github-streaks" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffmant&theme=dark&hide_border=true" alt="github-readme-streaks" />
+</div>
+
+<p>&nbsp;</p>
+
+<div id="github-stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="github-readme-stats" />
+</div>
