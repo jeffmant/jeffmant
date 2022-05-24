@@ -4,7 +4,8 @@
 
 <p align="center"> Hey. I'm Jeff. Nice to see you here! ✌🏽 </p>
 <p align="center">
-My mission is to reach, awaken and encourage people to bring their best versions. I currently use programming for this.
+My mission is encourage and support people to bring their best versions. 
+For now I'm using programming for this.
 </p>
 
 <p>&nbsp;</p>
