@@ -11,10 +11,10 @@ For now I'm using programming for this.
 <p>&nbsp;</p>
 
 <div id="social-badges" align="center">
-  <a href="https://linkedin.com/in/jeffmant">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/jeffmant" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" width="60" height="50" />
   </a>
-  <a href="https://www.youtube.com/channel/UC10lFjruKpj2KYRKcwQ3clg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/channel/UC10lFjruKpj2KYRKcwQ3clg" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Badge" width="60" height="50" />
   </a>
 </div>
